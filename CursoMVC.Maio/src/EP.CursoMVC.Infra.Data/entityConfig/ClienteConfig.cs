@@ -14,6 +14,9 @@ namespace EP.CursoMVC.Infra.Data.entityConfig
         {
             HasKey(c => c.ClienteId);
 
+            Property(c=>c.Nome)
+                .Is
+
 
         }
     }
