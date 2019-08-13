@@ -1,0 +1,15 @@
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\bin\Debug\EP.CursoMVC.Infra.Data.dll.config
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\bin\Debug\EP.CursoMVC.Infra.Data.dll
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\bin\Debug\EP.CursoMVC.Infra.Data.pdb
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\bin\Debug\EP.CursoMVC.Domain.dll
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\bin\Debug\EP.CursoMVC.Domain.pdb
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\bin\Debug\EP.CursoMVC.Domain.dll.config
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\obj\Debug\EP.CursoMVC.Infra.Data.csprojAssemblyReference.cache
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\obj\Debug\EP.CursoMVC.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\obj\Debug\EP.CursoMVC.Infra.Data.csproj.CopyComplete
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\obj\Debug\EP.CursoMVC.Infra.Data.dll
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Infra.Data\obj\Debug\EP.CursoMVC.Infra.Data.pdb
