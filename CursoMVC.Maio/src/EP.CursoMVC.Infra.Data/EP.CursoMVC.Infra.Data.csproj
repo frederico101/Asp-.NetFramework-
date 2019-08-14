@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Contexts\CursoMvcContext.cs" />
     <Compile Include="entityConfig\ClienteConfig.cs" />
+    <Compile Include="entityConfig\EnderecoConfig.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

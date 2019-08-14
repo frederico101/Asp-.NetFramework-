@@ -9,3 +9,4 @@ C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Domain\o
 C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Domain\obj\Debug\EP.CursoMVC.Domain.csproj.CopyComplete
 C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Domain\obj\Debug\EP.CursoMVC.Domain.dll
 C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Domain\obj\Debug\EP.CursoMVC.Domain.pdb
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.CursoMVC.Domain\obj\Debug\EP.CursoMVC.Domain.csprojAssemblyReference.cache
