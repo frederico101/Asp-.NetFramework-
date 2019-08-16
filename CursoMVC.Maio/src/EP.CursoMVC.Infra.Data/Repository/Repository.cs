@@ -11,8 +11,10 @@ namespace EP.CursoMVC.Infra.Data.Repository
     public class Repository<TEntity> : IRepository<TEntity> where TEntity : class
     {
         // protected
-        protected CursoMvcContext Db;
+        private CursoMvcContext Db;
         protected DbSet<TEntity> DbSet;
+
+       // protected CursoMvcContext Db { get => db; set => db = value; }
 
         public Repository()
         {
