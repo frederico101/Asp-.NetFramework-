@@ -7,7 +7,7 @@ using EP.CursoMVC.Domain.Entities;
 
 namespace EP.CursoMVC.Infra.Data.Repository
 {
-    class ClienteRepository : Repository<Cliente>, IClienteRepository
+    public class ClienteRepository : Repository<Cliente>, IClienteRepository
     {
         public Cliente ObterPorCpf(string cpf)
         {

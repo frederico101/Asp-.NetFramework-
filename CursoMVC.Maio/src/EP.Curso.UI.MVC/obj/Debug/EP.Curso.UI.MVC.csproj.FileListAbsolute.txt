@@ -105,3 +105,6 @@ C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\obj\
 C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\obj\Debug\EP.Curso.UI.MVC.pdb
 C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\bin\JetBrains.Annotations.dll
 C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\bin\JetBrains.Annotations.xml
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\bin\AutoMapper.dll
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\bin\AutoMapper.pdb
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\bin\AutoMapper.xml

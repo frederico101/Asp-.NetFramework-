@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EP.CursoMvc.Application.ViewModels
 {
-    class ClienteEnderecoViewModel
+   public class ClienteEnderecoViewModel
     {
 
         public ClienteEnderecoViewModel()
