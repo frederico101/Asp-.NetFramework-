@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using AutoMapper;
 using EP.CursoMvc.Application.Interfaces;
 using EP.CursoMvc.Application.ViewModels;
+using EP.CursoMVC.Domain.Entities;
 using EP.CursoMVC.Infra.Data.Repository;
 
 namespace EP.CursoMvc.Application
@@ -16,7 +18,10 @@ namespace EP.CursoMvc.Application
         }
         public ClienteEnderecoViewModel Adicionar(ClienteEnderecoViewModel clienteEnderecoViewModel)
         {
-              
+            var cliente = Mapper.Map<Cliente>(clienteEnderecoViewModel);
+            var endereco = Mapper.Map<Endereco>(clienteEnderecoViewModel);
+
+            _clienteRepository.Adicionar(cliente);
         }
 
         public ClienteViewModel Atualizar(ClienteViewModel clienteViewModel)
