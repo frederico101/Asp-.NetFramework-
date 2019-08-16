@@ -103,3 +103,5 @@ C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\obj\
 C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\obj\Debug\EP.Curso.UI.MVC.csproj.CopyComplete
 C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\obj\Debug\EP.Curso.UI.MVC.dll
 C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\obj\Debug\EP.Curso.UI.MVC.pdb
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\bin\JetBrains.Annotations.dll
+C:\Users\frederico.alves\Documents\ASPNET\CursoMVC.Maio\src\EP.Curso.UI.MVC\bin\JetBrains.Annotations.xml
