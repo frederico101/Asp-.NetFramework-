@@ -1,12 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using EP.CursoMVC.Domain.Entities;
-using System.ComponentModel.Design;
+
 
 namespace EP.CursoMvc.Application.ViewModels
 {
@@ -15,6 +11,8 @@ namespace EP.CursoMvc.Application.ViewModels
         public ClienteViewModel()
         {
             ClienteId = Guid.NewGuid();
+            Enderecos = new List<EnderecoViewModel>();
+
         }
         [Key]
         public Guid ClienteId { get; set; }
@@ -26,5 +24,7 @@ namespace EP.CursoMvc.Application.ViewModels
         public DateTime DataNascimento { get; set; }
         public DateTime DataCadastro { get; set; }
         public bool Ativo { get; set; }
+
+      //  public ICollection<EnderecoViewModel> Enderecos { get; set; }
     }
 }
